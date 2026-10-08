@@ -1,0 +1,13 @@
+part_id,part_category,part_name,oem_code,aftermarket_code,compatible_vehicle_ids,notes
+PART-001,engine,Motor Yağ Filtresi,90915-YZZD1,WF10201,"TR-VEH-001;TR-VEH-007;TR-VEH-008;TR-VEH-009",Kullanım aralığı model bazlı kontrol edilmelidir
+PART-002,brake,Ön Fren Balatası Seti,04465-02070,DBA1132,"TR-VEH-001;TR-VEH-007;TR-VEH-008;TR-VEH-009",Fren seti uyumluluğu araç tipine göre değişir
+PART-003,suspension,Ön Amortisör,48531-02060,AS-004,"TR-VEH-001;TR-VEH-002;TR-VEH-007",Süspansiyon aşınma sorunları için yaygın eşleşme
+PART-004,cooling,Su Pompası,16100-3A100,WP-1501,"TR-VEH-001;TR-VEH-002;TR-VEH-008",Motor ısınma ve aşırı ses için kritik
+PART-005,drivetrain,Debriyaj Seti,22800-30200,CL-880,"TR-VEH-003;TR-VEH-008",Şehir içi yoğun kullanımda düzenli kontrol
+PART-006,engine,Turbo Yağ Sızıntı Seti,04E145800A,TD-1101,"TR-VEH-003;TR-VEH-009",Turbo sistemine göre dikkatli uyumluluk sağlanmalıdır
+PART-007,engine,Yakıt Filtresi,23300-0M010,FF-2001,"TR-VEH-004;TR-VEH-010",Yüksek mesafe taşıma araçlarında kritik
+PART-008,hydraulics,Hidrolik Filtre,425-20-12700,HF-3400,"TR-VEH-005;TR-VEH-006",Tarım ve iş makinesi için ana kullanım alanı
+PART-009,track,Palet Seti,329-66-00101,TRACK-320D,"TR-VEH-006",Ağır arazi çalışmasında sık değişim gerektirir
+PART-010,hydraulics,Hidrolik Pompa,708-2L-00210,HP-2200,"TR-VEH-005;TR-VEH-006",Performans kaybı ve sızıntıda kontrol edilmeli
+PART-011,drivetrain,Şanzıman Yağı Filtresi,1V0120137,ATF-FLT-01,"TR-VEH-004;TR-VEH-010",Ticari yük taşıma araçları için önemlidir
+PART-012,exhaust,Egzoz Borusu,18231-2G100,EX-5100,"TR-VEH-007;TR-VEH-008",Korozyon ve aşınma için kontrol edilmelidir

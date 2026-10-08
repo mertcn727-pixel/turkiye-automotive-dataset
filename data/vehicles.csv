@@ -1,0 +1,11 @@
+vehicle_id,category,brand,model,year,vehicle_type,engine_type,engine_capacity,transmission,drivetrain,market_region,notes
+TR-VEH-001,passenger,TOYOTA,Corolla,2018,sedan,gasoline,1.8L,automatic,FWD,Türkiye,Ortalama kullanım; yaygın olarak servis edilen model
+TR-VEH-002,passenger,TOYOTA,Camry,2016,sedan,gasoline,2.5L,automatic,FWD,Türkiye,Aracın elektronik ve süspansiyon bakım ihtiyacı yüksektir
+TR-VEH-003,commercial,FORD,Transit,2019,van,diesel,2.2L,manual,RWD,Türkiye,Panelvan ve yük taşıma kullanımında yaygındır
+TR-VEH-004,commercial,MERCEDES-BENZ,Actros,2017,truck,diesel,12.8L,automatic,RWD,Türkiye,Uzun mesafe ticari araç
+TR-VEH-005,agriculture,CASE,MXM,2021,tractor,diesel,4.5L,manual,4WD,Türkiye,Tarım makinesi; arazi çalışmaları için ideal
+TR-VEH-006,construction,CAT,320D,2017,excavator,diesel,5.0L,automatic,tracked,Türkiye,İş makinesi; ağır kullanım 
+TR-VEH-007,passenger,RENAULT,Clio,2015,hatchback,gasoline,1.5L,manual,FWD,Türkiye,Yakıt verimliliği ve süspansiyon açısından sık görülen sorunlar
+TR-VEH-008,passenger,HYUNDAI,Accent,2019,sedan,gasoline,1.6L,manual,FWD,Türkiye,Kullanım kolaylığı ve ticari araç olarak yaygın
+TR-VEH-009,passenger,VOLKSWAGEN,Golf,2017,hatchback,diesel,1.6L,manual,FWD,Türkiye,Dizel varyant; filtrasyon ve fren bakımına dikkat
+TR-VEH-010,commercial,MAN,TGS,2018,truck,diesel,10.5L,automatic,RWD,Türkiye,Şehir ve uzun yol kamyonu

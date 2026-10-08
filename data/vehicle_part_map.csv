@@ -1,0 +1,14 @@
+vehicle_id,part_id,part_name,oem_code,compatibility_level,notes
+TR-VEH-001,PART-001,Motor Yağ Filtresi,90915-YZZD1,high,Yağ tüketimi kontrol ve düzenli bakım
+TR-VEH-001,PART-002,Ön Fren Balatası Seti,04465-02070,high,Yaygın kullanım ve yoğun şehir kullanımında kritik
+TR-VEH-001,PART-003,Ön Amortisör,48531-02060,high,Süspansiyon aşınması için ana parça
+TR-VEH-001,PART-004,Su Pompası,16100-3A100,high,Motor ısınma çözümleri için gerekli
+TR-VEH-003,PART-005,Debriyaj Seti,22800-30200,high,Yoğun işlerde verimlilik ve güvenlik için kritik
+TR-VEH-003,PART-006,Turbo Yağ Sızıntı Seti,04E145800A,medium,Kontrol ve erken bakım önceliği
+TR-VEH-005,PART-008,Hidrolik Filtre,425-20-12700,high,Tarım makinelerinde yaygın bakım bileşeni
+TR-VEH-005,PART-010,Hidrolik Pompa,708-2L-00210,high,Hidrolik performans için gereklidir
+TR-VEH-006,PART-009,Palet Seti,329-66-00101,high,Ağır arazi ve iş makinesi kullanımı için kritik
+TR-VEH-007,PART-012,Egzoz Borusu,18231-2G100,medium,Egzoz korozyon kontrolü
+TR-VEH-008,PART-005,Debriyaj Seti,22800-30200,medium,Şehir içi yoğun kullanımda sık değişebilir
+TR-VEH-009,PART-006,Turbo Yağ Sızıntı Seti,04E145800A,high,Dizel araçlarda dikkat edilmesi gereken öğe
+TR-VEH-010,PART-011,Şanzıman Yağı Filtresi,1V0120137,high,Uzun mesafe ticari ağır vasıta için müdahale kritiği

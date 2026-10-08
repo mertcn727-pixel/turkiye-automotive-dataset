@@ -1,0 +1,22 @@
+vehicle_id,issue_group,symptom,frequency,description,source_type
+TR-VEH-001,engine,Yağ tüketimi,high,Motorun düzenli yağ tüketmesi ve yüksek motor sesinin oluşması; genellikle yağ kaçakları veya piston halkası sorunları ile ilişkili olabilir.,field_report
+TR-VEH-001,suspension,Ön süspansiyon aşınması,high,Ön amortisör ve toplam süspansiyon bileşenlerinde aşınma, sarsıntı ve virajda dengesizlik oluşturabilir.,service_knowledge
+TR-VEH-001,cooling,Su pompası arızası,medium,Motorun ısınması veya su pompası gürültüsü; değişim ihtiyacını doğurabilir.,service_knowledge
+TR-VEH-002,electrical,Elektrik arızaları,medium,Kontak/anahtar, sensörler veya kablo bağlantılarında kısa devre veya arıza görülür.,field_report
+TR-VEH-002,brake,Disk ve fren aşınması,medium,Fren performansında düşüş ve aşınma yüzeylerinde düzensizlik görülebilir.,service_knowledge
+TR-VEH-003,transmission,Debriyaj aşınması,high,Yoğun şehir içi kullanımda debriyaj karışma ve kayma sorunları sık görülür.,field_report
+TR-VEH-003,engine,Turbo yağ kaçağı,medium,Turbo tarafı yağ sızıntısı ve güç kaybı gibi belirtiler gösterebilir.,service_knowledge
+TR-VEH-004,engine,Motor yağlama sorunu,high,Yüksek mesafe kullanımında yağ basıncı düşüşü ve yağ kaçağı problemi görülür.,field_report
+TR-VEH-004,steering,Direksiyon sistemi aşınması,medium,Direksiyon sistemi bileşenlerinde oynama ve gürültü oluşabilir.,service_knowledge
+TR-VEH-005,hydraulics,Hidrolik sızıntı,medium,Hidrolik hatlarda sızıntı ve işlev kaybı olabilir.,field_report
+TR-VEH-005,filter,Hava ve yakıt filtresi tıkanması,medium,Tozlu çalışma ortamında filtre verimliliği düşebilir.,service_knowledge
+TR-VEH-006,hydraulics,Ekşidör/kol pistonu aşınması,high,Ağır işlerde hidrolik pistonlarında aşınma ve sızıntı görülür.,field_report
+TR-VEH-006,track,Palet ve lastik aşınması,high,Toprak ve sert yüzeylerde paletlerde hızlı aşınma görülebilir.,service_knowledge
+TR-VEH-007,engine,Motor soğutma sorunu,medium,Motor ısınması ve radyatör/termostat arızası şeklinde kendini gösterebilir.,field_report
+TR-VEH-007,suspension,Arka amortisör aşınması,medium,Arka süspansiyon gürültüsü ve sertlik artışı olabilir.,service_knowledge
+TR-VEH-008,clutch,Debriyaj aşınması,high,Yoğun trafikte ve şehir içi kullanımda debriyaj sıkça değişebilir.,field_report
+TR-VEH-008,exhaust,Egzoz sistemi korozyonu,medium,Egzoz borularında korozyon ve ses artışı görülebilir.,service_knowledge
+TR-VEH-009,engine,Dizel partikül filtresi tıkanması,high,Yüksek şehir içi kullanımda DPF verimliliği düşebilir.,field_report
+TR-VEH-009,brake,Ön fren seti aşınması,medium,Dizel modelde yüksek yük etkisiyle fren seti daha erken aşınabilir.,service_knowledge
+TR-VEH-010,drivetrain,Şanzıman ve diferansiyel yağlanması,medium,Uzak mesafe ticari kullanımda şanzıman yağını kontrol etmek gerekir.,field_report
+TR-VEH-010,brake,Fren balatası aşınması,high,Yoğun taşıma işlemleri nedeniyle fren balataları hızlı aşınabilir.,service_knowledge

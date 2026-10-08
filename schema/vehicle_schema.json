@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Turkiye Automotive AI Dataset Schema",
+  "type": "object",
+  "required": ["vehicle_id", "category", "brand", "model", "year"],
+  "properties": {
+    "vehicle_id": { "type": "string" },
+    "category": {
+      "type": "string",
+      "enum": ["passenger", "commercial", "agriculture", "construction"]
+    },
+    "brand": { "type": "string" },
+    "model": { "type": "string" },
+    "year": { "type": "integer" },
+    "vehicle_type": { "type": "string" },
+    "engine_type": { "type": "string" },
+    "engine_capacity": { "type": "string" },
+    "transmission": { "type": "string" },
+    "drivetrain": { "type": "string" },
+    "notes": { "type": "string" }
+  }
+}
